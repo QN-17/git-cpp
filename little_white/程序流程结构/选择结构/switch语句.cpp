@@ -31,7 +31,7 @@ int main(){
         break;
         case 5:
         cout<<"yiban"<<endl;
-        default:
+        default://Ê£ÏÂµÄ
         cout<<"L"<<endl;
         break;
     }
